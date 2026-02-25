@@ -1,0 +1,15 @@
+C:\MSharp\msharp-starter\src\MSharp\bin\Debug\net8.0\msharp.exe
+C:\MSharp\msharp-starter\src\MSharp\bin\Debug\net8.0\msharp.deps.json
+C:\MSharp\msharp-starter\src\MSharp\bin\Debug\net8.0\msharp.runtimeconfig.json
+C:\MSharp\msharp-starter\src\MSharp\bin\Debug\net8.0\msharp.dll
+C:\MSharp\msharp-starter\src\MSharp\bin\Debug\net8.0\msharp.pdb
+C:\MSharp\msharp-starter\src\MSharp\obj\Debug\net8.0\MSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\MSharp\msharp-starter\src\MSharp\obj\Debug\net8.0\MSharp.AssemblyInfoInputs.cache
+C:\MSharp\msharp-starter\src\MSharp\obj\Debug\net8.0\MSharp.AssemblyInfo.cs
+C:\MSharp\msharp-starter\src\MSharp\obj\Debug\net8.0\MSharp.csproj.CoreCompileInputs.cache
+C:\MSharp\msharp-starter\src\MSharp\obj\Debug\net8.0\MSharp.sourcelink.json
+C:\MSharp\msharp-starter\src\MSharp\obj\Debug\net8.0\msharp.dll
+C:\MSharp\msharp-starter\src\MSharp\obj\Debug\net8.0\refint\msharp.dll
+C:\MSharp\msharp-starter\src\MSharp\obj\Debug\net8.0\msharp.pdb
+C:\MSharp\msharp-starter\src\MSharp\obj\Debug\net8.0\MSharp.genruntimeconfig.cache
+C:\MSharp\msharp-starter\src\MSharp\obj\Debug\net8.0\ref\msharp.dll
